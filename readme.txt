@@ -10,7 +10,7 @@ Fine tune the look of the content inside posts and pages in Genesis Design Palet
 
 == Description ==
 
-Fine tune the look of the content inside posts and pages in Genesis Design Palette Pro. Edit header tags, list items, and paragraphs individually to get a completely unique look.
+Fine tune the look of the content inside posts and pages in Genesis Design Palette Pro. Edit heading tags, list items, and paragraphs individually to get a completely unique look.
 
 Requires the [Genesis Design Palette Pro](http://genesisdesignpro.com/ "Genesis Design Palette Pro") plugin.
 
