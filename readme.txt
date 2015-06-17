@@ -24,7 +24,7 @@ Requires the [Genesis Design Palette Pro](http://genesisdesignpro.com/ "Genesis 
 
 = What do I do with this? =
 
-Install and activate it.
+Install and activate it. A new setting tab will appear on the right hand side.
 
 == Screenshots ==
 
